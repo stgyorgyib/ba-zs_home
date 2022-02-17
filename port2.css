@@ -1,0 +1,22 @@
+.bal{
+    border-spacing: 15px;
+}
+h2{
+    text-align: center;
+    border-radius: 15px;
+}
+body{
+    background-image: url("hatter.jpg");
+    background-size:cover;
+}
+
+.navbar .navbar-expand-lg .navbar-light .bg-light{
+    border-end-end-radius: 15px;
+}
+.leiras{
+    text-align: center;
+    font-weight: bold;
+    border-radius: 25px;
+    border-bottom: 25px;
+}
+
